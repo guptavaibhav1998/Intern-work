@@ -1,0 +1,7 @@
+https://www.kaggle.com/shivatharun/house-price-prediction-using-advanced-regression/notebook
+
+https://www.dataquest.io/blog/kaggle-getting-started/
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/83751#latest-540812
+
+https://www.kaggle.com/shotashimizu/09-decisiontree-gridsearchcv
